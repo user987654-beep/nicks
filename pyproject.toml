@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "council-of-nicks"
+version = "0.1.0"
+description = "Host-independent Council development and review with Python-orchestrated subscription and free models."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+nicks = "nicks.cli:main"
+
+[tool.setuptools]
+packages = ["nicks"]
+
+[tool.setuptools.package-data]
+nicks = ["WORKFLOW.md"]

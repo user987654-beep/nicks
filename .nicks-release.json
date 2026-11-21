@@ -1,0 +1,262 @@
+{
+  "files": {
+    "NOTICE": {
+      "mode": "100644",
+      "sha256": "1630b9b61a42cc279565cf908254ce057774c16e7dfcd58a5355a082dcc1db24"
+    },
+    "README.md": {
+      "mode": "100644",
+      "sha256": "ec6459ff30cb374b6cd32402acf97b812acf8dba36d47c66606b2724b8c2bb19"
+    },
+    "bin/nicks": {
+      "mode": "100755",
+      "sha256": "0088189659acf87c7110944513212bec796b04e1826245a4efecf4757b0f66d2"
+    },
+    "docs/images/architect-nick.png": {
+      "mode": "100644",
+      "sha256": "46cbd99c39f540b4736b94e17d2e736e42f056562bceb6e5e3e752455905a73f"
+    },
+    "docs/images/council-of-nicks-flowchart.png": {
+      "mode": "100644",
+      "sha256": "fa9ef419158527bcc625fdbaf05bdfaa10935f1370668172394e0b18f1d0e96c"
+    },
+    "docs/images/evil-nick.png": {
+      "mode": "100644",
+      "sha256": "11f4074807a7927c637ea19b154d60321769f8cceabcf32bac99ff35ce7ed065"
+    },
+    "docs/images/good-nick.png": {
+      "mode": "100644",
+      "sha256": "1523be08fa34c7265a64cfcba4b5796648734468ebb5a98b1809ba67c9bd6d27"
+    },
+    "docs/images/neutral-nick.png": {
+      "mode": "100644",
+      "sha256": "4a52763c3b15de0430a37fcefda0841ecdb803b82e36e2492588eff7f3a31036"
+    },
+    "docs/images/shortys.png": {
+      "mode": "100644",
+      "sha256": "e39e4a08cef1bb341373ce4629e2354148c16a92d3dd6d7a0bbc7777ca5eb3eb"
+    },
+    "install.sh": {
+      "mode": "100755",
+      "sha256": "8ada6d40dd2f54e8164392c6bebf2a534815a4bb7fb9fc9cfa4d4666162bccd7"
+    },
+    "nicks/WORKFLOW.md": {
+      "mode": "100644",
+      "sha256": "c81dee0fe575cb3798988845f1d8e69bf3abc17b7372fe3f8c11274e8ef2cc65"
+    },
+    "nicks/__init__.py": {
+      "mode": "100644",
+      "sha256": "bea5292948f27fa6a46fd00781aa823657ec26ad09a8e94c6eac00cb8c6bd020"
+    },
+    "nicks/__main__.py": {
+      "mode": "100644",
+      "sha256": "13a1a5b340cdcfc1902b62be90e508c7c71886000d5bf087e7854aadf09fb35e"
+    },
+    "nicks/architect.py": {
+      "mode": "100644",
+      "sha256": "4066db5b748ab079fb8e46539940a31c9cc3b7a4ebd9037d2f56c30c79c2d958"
+    },
+    "nicks/billing.py": {
+      "mode": "100644",
+      "sha256": "cdf4600952e067f55462d17b737143a36f3316d5030244555ea6578f48b4e2c6"
+    },
+    "nicks/capacity.py": {
+      "mode": "100644",
+      "sha256": "9b84b0a0945e27ca4a46ee7c928e24fa3065bb2d68a039a443859f55a1a6b350"
+    },
+    "nicks/cli.py": {
+      "mode": "100644",
+      "sha256": "911d852300df0b5c86bc2e8f77998e63a76ef78b5f92e113efdef8011b6f5c08"
+    },
+    "nicks/competing.py": {
+      "mode": "100644",
+      "sha256": "b757c13c07d6c83b71a636245abfe657e46a7bb1034043567d091977316bf31c"
+    },
+    "nicks/config.py": {
+      "mode": "100644",
+      "sha256": "913a2e9b75e08d2e7806c8b44bb99d28c4bc1751137e06f4305e8b5b33ffbf31"
+    },
+    "nicks/consensus.py": {
+      "mode": "100644",
+      "sha256": "6206dd70353054dc1b3a47b8396d298fefa7d34a23c168732ee584dd8c18dd33"
+    },
+    "nicks/context.py": {
+      "mode": "100644",
+      "sha256": "3e7aaaf7da8d75bb990bcee8d71fa4fc4a07ce09c4ae4fd24b6b7e09137fd0e5"
+    },
+    "nicks/db.py": {
+      "mode": "100644",
+      "sha256": "171da8e4cb3b4ea306b4eb044a2df3e0003ff7be9f588eedefb366b8f8aa168d"
+    },
+    "nicks/debate.py": {
+      "mode": "100644",
+      "sha256": "804ec1a1c159b078ba75f00cae4b615f8a721447cec6fb99e74078cb413b5aa0"
+    },
+    "nicks/delivery_integrity.py": {
+      "mode": "100644",
+      "sha256": "d673e29f1a2d877756a733cf34c34e19cceb71317e9b9f5638a1210f27cbcd65"
+    },
+    "nicks/dev.py": {
+      "mode": "100644",
+      "sha256": "e7ca6a5c6dcd0e2ea57157f02a956e061721daeb821940c3b9e71b01ed1b89c2"
+    },
+    "nicks/diagnostic.py": {
+      "mode": "100644",
+      "sha256": "bddc1f478a4a752d12fb6cc63e505f800177ea2c9fafa941c2d300169cbef9b7"
+    },
+    "nicks/evidence_bundle.py": {
+      "mode": "100644",
+      "sha256": "1c197de7ebcb6dce5b3428f859053dd49b3ccedd6eee95e7cf0a34caf2bff865"
+    },
+    "nicks/evidence_delivery.py": {
+      "mode": "100644",
+      "sha256": "864426cfa3eb8239b475a587d214b498bc4c6bc974624a1f79f95f21da67db44"
+    },
+    "nicks/evidence_sources.py": {
+      "mode": "100644",
+      "sha256": "52ddaf5147b72fff52569593f3d2b4597fd46c9b28b31ee25615df92654cd6a0"
+    },
+    "nicks/evil.py": {
+      "mode": "100644",
+      "sha256": "9505317a8f82f6c0adedd3aa688fc31709651183cd1f5a1d3da7df0f42801b98"
+    },
+    "nicks/federation.py": {
+      "mode": "100644",
+      "sha256": "7afece7a66fd04f7340c167e79e23dd0cbe4ccafa14423473980c0d430e3d0af"
+    },
+    "nicks/judicial_evidence.py": {
+      "mode": "100644",
+      "sha256": "478b7aa7ba64cc0cc5742db9c67ba393398852503ead6c474d5899ae358a4db9"
+    },
+    "nicks/keyproxy.py": {
+      "mode": "100644",
+      "sha256": "a26513ffff926304bcd793c3958ed67dfcd13cbd0d938751a19159eaf95c265e"
+    },
+    "nicks/local_discovery.py": {
+      "mode": "100644",
+      "sha256": "1b064115ada2e931c5d9ab83d8d63bc857bf6e4e24fb869bb095c2c26c87dfba"
+    },
+    "nicks/microtasks.py": {
+      "mode": "100644",
+      "sha256": "04d5b8fddd75d4e0de8fea3016958137e9d36de6a918edb1b34bb232618e8e9f"
+    },
+    "nicks/neutral.py": {
+      "mode": "100644",
+      "sha256": "12917c50cdb29048964b684dacb94bcda2a2ee59e135b760e8d65f0e8e829d4c"
+    },
+    "nicks/nickquisition.py": {
+      "mode": "100644",
+      "sha256": "f0e4bb363be15f0771957508800467c8acccf2a8206532800ed3c49034537673"
+    },
+    "nicks/nq_live.py": {
+      "mode": "100644",
+      "sha256": "c41a80c9750aca7cb30e667f1e8c12cfc674a2251ccb2d8d39d0453923cf462e"
+    },
+    "nicks/onboarding.py": {
+      "mode": "100644",
+      "sha256": "1ce2eb9f7d16c941ad1f70f2450a786c47431285ac255621abcf274fcc6d50e0"
+    },
+    "nicks/packet.py": {
+      "mode": "100644",
+      "sha256": "9c7c1d4c33290dd6294c7b79c7e87dc8427c2fa403677ec631568665a4e1c7ec"
+    },
+    "nicks/patchworker.py": {
+      "mode": "100644",
+      "sha256": "0729d7dafd27d704383c1bef04d5609b92f8315e290ced525f7a83547cdbd847"
+    },
+    "nicks/plancritic.py": {
+      "mode": "100644",
+      "sha256": "67f4357f3d4195f1b6a7189fe13f1e850ec06dcec5b8caa706a78a7fe6907f89"
+    },
+    "nicks/policy.py": {
+      "mode": "100644",
+      "sha256": "b48c26d2fe428f0d2fe34429b8a5a994911a056e1fea18316a174c7f1db39556"
+    },
+    "nicks/preflight.py": {
+      "mode": "100644",
+      "sha256": "13c610cc84edc87bc9c25c609aee7cfbf7de47c5b0df3bf4c709b15295b387ad"
+    },
+    "nicks/providers.py": {
+      "mode": "100644",
+      "sha256": "37609dc473ddabfe36284df5f0cfda3dfb6f768e305f6b063f5be6c44b919063"
+    },
+    "nicks/registry.py": {
+      "mode": "100644",
+      "sha256": "0d7b63512d017ab2b87a0f9840986d56fff2d38edce2a303e0136b2af5938886"
+    },
+    "nicks/report.py": {
+      "mode": "100644",
+      "sha256": "685eaacb8378ee897340ac4eb67bdd3a86bcb36345be06367f5135354171a89e"
+    },
+    "nicks/review.py": {
+      "mode": "100644",
+      "sha256": "5a26ca51b27cfefc902e55a00cbb8450b036075cb434327d985fd8676f7eb29f"
+    },
+    "nicks/rework.py": {
+      "mode": "100644",
+      "sha256": "cb5468189545bc27779520fde27982ccbb8667d3ac8c1ebade985ce8cf71c13f"
+    },
+    "nicks/router.py": {
+      "mode": "100644",
+      "sha256": "0e36c3e490f4996cecadc337630d10be7aebe45f3082731333d2319eeb82bfb7"
+    },
+    "nicks/runner.py": {
+      "mode": "100644",
+      "sha256": "596ceda9bf98b5671083323bc88bfbe3abd19c9ec72d2bd6f4887a1d32c150e9"
+    },
+    "nicks/sandbox.py": {
+      "mode": "100644",
+      "sha256": "e75194c8ccfbf104cf9ea9e676434fd74bea7348a68ab2adcc0c9b8c73fb8efe"
+    },
+    "nicks/snapshot.py": {
+      "mode": "100644",
+      "sha256": "8c7d7edda04f236ca74542065dfeea77da94f8516a4a958b913e762cc3794563"
+    },
+    "nicks/stats.py": {
+      "mode": "100644",
+      "sha256": "338b317d3dca992633b6497f54303f1fb45bfc5dd17d8f1c03f83245eb6830b6"
+    },
+    "nicks/subscription.py": {
+      "mode": "100644",
+      "sha256": "c287ea6ad485a3fc39ecae0cd2befa443a127ef1771fd56b508533b7a4fd64ee"
+    },
+    "nicks/telemetry.py": {
+      "mode": "100644",
+      "sha256": "be25792c15a36ce3a844c25d0ca2ba50bbbe5d25bfb586d1c821710003c1b634"
+    },
+    "nicks/testdesign.py": {
+      "mode": "100644",
+      "sha256": "7169fe9da4ab5cec07e8f08c2cbf29cb6890d358048ad601e159f88bb42a0b3e"
+    },
+    "nicks/usability.py": {
+      "mode": "100644",
+      "sha256": "aa3408cceb9356d47b67f1e1a55785fd3277cff5a7b5a526d7da366b91f29adc"
+    },
+    "nicks/usage.py": {
+      "mode": "100644",
+      "sha256": "628f26f263a2c761fbbf8ef354252a426066f7dec2070e852ba3739f6d1133fe"
+    },
+    "pyproject.toml": {
+      "mode": "100644",
+      "sha256": "9787ccdc12b75d59dfb3f958bab250358d93fa151a0f63e7db81f61cbffb1d78"
+    },
+    "skill/codex-nicks/SKILL.md": {
+      "mode": "100644",
+      "sha256": "fb90132c90b4d25d968bd0e6812a31af10008c62f16f6cd1bb7c8d8c73cc042d"
+    },
+    "skill/codex-nicks/WORKFLOW.md": {
+      "mode": "120000",
+      "sha256": "707ec95323703c1ec62fb469a26bec6ea0226e28c4bb2089a16ffc5879043f03"
+    },
+    "skill/nicks/SKILL.md": {
+      "mode": "100644",
+      "sha256": "b970ff24e8e75b65c86d758cf64b79d721c87cb2320358180a15916e0f40f1af"
+    },
+    "skill/nicks/WORKFLOW.md": {
+      "mode": "120000",
+      "sha256": "fbadcadd3dce2f5e74647e9d938b53dc6865eaddf58e417ecf8f428d51b6e291"
+    }
+  },
+  "schema": 1,
+  "version": "v0.1.0"
+}
